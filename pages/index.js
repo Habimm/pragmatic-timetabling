@@ -20,19 +20,19 @@ export default function Home() {
           </div>
           <div className="row">
             <div className="col-12 col-md-10 offset-md-1">
-                <p>Revolutionieren Sie die Stundenplanerstellung mit unserer innovativen Software! 🚀</p>
-              <p>Introducing: Pragmatic Timetabling – die ultimative Lösung für die Erstellung von Stundenplänen für Ihre Oberstufe, Mittelstufe und Unterstufe.</p>
+              <p>Entdecken Sie die bahnbrechende Stundenplan-Revolution mit unserer innovativen Software! 🚀</p>
+              <p>Präsentation: Pragmatic Timetabling – Die atemberaubende All-in-One-Lösung für die Erstellung von Stundenplänen für Ihre gesamte Schule: von der Oberstufe bis zur Unterstufe!</p>
               <ul>
-                <li>🖥️ Web-basiert: Keine Installation erforderlich, einfach im Browser nutzen</li>
-                <li>👩‍🏫 Lehrer-Management: Definieren Sie Lehrer mit Namen und Liste der unterrichteten Fächer</li>
-                <li>👨‍🎓 Schüler-Management: Definieren Sie Schüler und deren Wahlfächer</li>
-                <li>🏫 Raum-Management: Definieren Sie Räume mit verfügbaren Zeiten und Eigenschaften (z.B. mit Computer oder ohne Computer)</li>
-                <li>🔮 Automatische Berechnung: Erstellen Sie alle Stundenpläne (für Schüler, Lehrer, Räume) per Knopfdruck</li>
-                <li>✏️ Manuelle Anpassungen: Wählen Sie Raum, Lehrer oder Schüler aus und passen Sie den Stundenplan individuell an</li>
-                <li>📤 Export: Stundenpläne können nach Excel oder PDF exportiert werden</li>
+                <li>🖥️ Web-basiert: Vergessen Sie mühselige Installationen, starten Sie direkt im Browser und erleben Sie die Zukunft der Stundenplanerstellung!</li>
+                <li>👩‍🏫 Lehrer-Management: Organisieren Sie Ihr Lehrpersonal effizient mit individuellen Profilen und einer Liste der unterrichteten Fächer</li>
+                <li>👨‍🎓 Schüler-Management: Behalten Sie den Überblick über die Schüler und deren Wahlfächer, um jedem gerecht zu werden</li>
+                <li>🏫 Raum-Management: Optimieren Sie die Raumverteilung durch die Festlegung von verfügbaren Zeiten und Raum-Eigenschaften (z.B. Computer-Räume)</li>
+                <li>🔮 Automatische Berechnung: Sparen Sie wertvolle Zeit und erstellen Sie alle Stundenpläne (für Schüler, Lehrer, Räume) auf Knopfdruck!</li>
+                <li>✏️ Manuelle Anpassungen: Flexibilität bei Bedarf – wählen Sie Raum, Lehrer oder Schüler aus und passen Sie den Stundenplan individuell an</li>
+                <li>📤 Export: Behalten Sie den Überblick und exportieren Sie Stundenpläne ganz einfach in Excel oder PDF</li>
               </ul>
-              <p>Haben wir Ihr Interesse geweckt? Helfen Sie uns, die Entwicklung der Pragmatic Timetabling Software zu beschleunigen, indem Sie Ihre E-Mail-Adresse hinterlassen. So halten wir Sie auf dem Laufenden und informieren Sie, sobald die Software verfügbar ist.</p>
-              <p>Geben Sie Ihre E-Mail-Adresse in das unten stehende Feld ein und schicken das Formular ab, und werden Sie Teil der Pragmatic Timetabling Revolution! 🌐</p>
+              <p>Neugierig geworden? Unterstützen Sie die Entwicklung von Pragmatic Timetabling, indem Sie Ihre E-Mail-Adresse hinterlassen! Wir halten Sie über alle Neuigkeiten auf dem Laufenden und informieren Sie, sobald die Software verfügbar ist.</p>
+              <p>Werden Sie Teil der Pragmatic Timetabling Revolution! 🌐 Geben Sie Ihre E-Mail-Adresse in das unten stehende Feld ein und schicken Sie das Formular ab. Freuen Sie sich darauf, die Stundenplanerstellung für immer zu verändern!</p>
             </div>
           </div>
           <div className="row">
